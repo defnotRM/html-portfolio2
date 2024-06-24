@@ -1,0 +1,29 @@
+#hero{
+    background-color: #E6BC9A;
+}
+
+#pfp{
+    border-radius: 7px;
+}
+
+#hero h1 {
+    color: #EB842D;
+}
+#hero h4 {
+    color: #EB842D;
+}
+#hero p{
+    color: #EB842D;
+}
+.background-icon{
+    border-radius: 6px ;
+    background-color:#E6BC9A;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
